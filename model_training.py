@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------
 # author: joffrey.dumont@enpc.fr or joffreydumont@hotmail.fr
 # created: 2021/2022
-# laboratory: CEREA,  École des Ponts and EDF R&D, Île-de-France, France
+# laboratory: CEREA, École des Ponts and EDF R&D, Île-de-France, France
 # project: Prototype system for a Copernicus C02 monitoring service (CoCO2)
 # ----------------------------------------------------------------------------
 
