@@ -17,9 +17,11 @@ from tensorflow import keras
 from treeconfigparser import TreeConfigParser
 import wandb
 
-import models.pres as pm
-import models.pw_reg as pwrm
-import models.reg as rm
+try:
+    import models.reg as rm
+except ImportError:
+    pass
+
 import models.seg as sm
 from data.Data import Data
 import include.callbacks as callbacks
