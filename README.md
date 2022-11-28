@@ -1,6 +1,8 @@
 # co2-images-seg
 The official code for "Segmentation of XCO2 images with deep learning: application to synthetic plumes from cities and power plants", submitted to " Geoscientific Model Development".
 
+[![DOI](https://zenodo.org/badge/570560732.svg)](https://zenodo.org/badge/latestdoi/570560732)
+
 ## Description
 
 In this work, we show a proof-of-concept that deep learning can segment XCO2 images 
